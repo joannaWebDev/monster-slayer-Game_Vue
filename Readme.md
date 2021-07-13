@@ -7,3 +7,6 @@ We got a **battle log** where we can see what happened, for example how much dam
 4. event binding with **v-on**
 5. how to output list data with **v-for**
 6. conditional content with **v-if**
+
+## Preview
+<img src="game.jpg">
